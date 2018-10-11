@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DesktopApp1.Properties
+namespace FeromApp.Properties
 {
 
 
