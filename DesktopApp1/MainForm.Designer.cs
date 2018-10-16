@@ -228,7 +228,7 @@ namespace FeromApp
             this.Controls.Add(this.tbNovaPrice);
             this.Controls.Add(this.btnAction);
             this.Name = "MainForm";
-            this.Text = "Form1";
+            this.Text = "Ferom";
             this.Load += new System.EventHandler(this.MainForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).EndInit();
             this.ResumeLayout(false);
